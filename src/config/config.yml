@@ -23,5 +23,5 @@ SWA              : True
 LR               : 0.00005
 WEIGHT_DECAY     : 0.001
 WARMUP           : 0.01
-EPOCHS           : 2
+EPOCHS           : 1
 PRE_PROCESS      : True
