@@ -1,0 +1,5 @@
+name: RoBERTa-base MLproject check code
+
+entry_points:
+    main:
+        command: "python ./src/train.py"
