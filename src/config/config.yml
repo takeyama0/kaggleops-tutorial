@@ -6,7 +6,7 @@ git_uri          : "https://github.com/yuooka/kaggleops-tutorial.git"
 
 MODEL_TYPE       : "RoBERTaBaseSquad2"
 SEED             : 100
-TORCH_SEED       : 100
+TORCH_SEED       : 101
 FOLD             : 5
 FOLD_NUM         : 0
 TRAIN_BATCH_SIZE : 24
