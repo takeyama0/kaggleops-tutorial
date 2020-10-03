@@ -1,4 +1,4 @@
-experiment_name  : "RoBERTaBase code check"
+experiment_name  : "RoBERTaBase colab check"
 bucket_name      : "kaggleops-bucket"
 git_uri          : "https://github.com/yuooka/kaggleops-tutorial.git"
 
@@ -8,7 +8,7 @@ MODEL_TYPE       : "RoBERTaBaseSquad2"
 SEED             : 100
 TORCH_SEED       : 100
 FOLD             : 5
-FOLD_NUM         : 2
+FOLD_NUM         : 0
 TRAIN_BATCH_SIZE : 32
 VALID_BATCH_SIZE : 32
 MAX_LEN          : 160
@@ -23,5 +23,5 @@ SWA              : True
 LR               : 0.00005
 WEIGHT_DECAY     : 0.001
 WARMUP           : 0.01
-EPOCHS           : 1
+EPOCHS           : 2
 PRE_PROCESS      : True
