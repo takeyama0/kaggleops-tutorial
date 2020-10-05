@@ -1,6 +1,6 @@
 # What is this repo?
 - MLFlowを利用してKaggleOps環境の構築について勉強するレポジトリです
-- このレポジトリについてのブログ記事（[リンク](https://recruit.gmo.jp/engineer/jisedai/blog/kaggleopsを考える-mlflow-colaboratory-kaggle-notebook/)）
+- このレポジトリについてのブログ記事（[リンク](https://recruit.gmo.jp/engineer/jisedai/blog/kaggleops-mlflow/)）
 
 # What will we learn?
 - kaggleで運用することを目的として、mlflowを学びます
@@ -13,5 +13,5 @@
 - GitHub：$0
 
 # What should I start with?
-- 各種セットアップをブログ記事を参考に完了します（[リンク](https://recruit.gmo.jp/engineer/jisedai/blog/kaggleopsを考える-mlflow-colaboratory-kaggle-notebook/)）
+- 各種セットアップをブログ記事を参考に完了します（[リンク](https://recruit.gmo.jp/engineer/jisedai/blog/kaggleops-mlflow/)）
 - run.ipynbを、ColaboratoryもしくはKaggle Notebookで実行します
