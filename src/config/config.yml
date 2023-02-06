@@ -1,6 +1,6 @@
 experiment_name  : "RoBERTaBase kaggle check"
-bucket_name      : "kaggleops-bucket"
-git_uri          : "https://github.com/yuooka/kaggleops-tutorial.git"
+bucket_name      : "kaggleops-bucket-02020"
+git_uri          : "https://github.com/takeyama0/kaggleops-tutorial.git"
 
 
 
